@@ -1,6 +1,6 @@
 # AI NPC Unity Template Scene
 
-This repository contains a template scene for interfacing with an AI-based NPC using OpenAI API, Azure Voice API, Google Cloud Speech to Text, and Oculus Lip Sync. The project uses Unity 2021.3.x.
+This repository contains a template scene for interfacing with an AI-based NPC using OpenAI API, Azure Voice API, Google Cloud Speech to Text, and Oculus Lip Sync. The project uses Unity 2021.3.x. Demonstration [here](https://www.linkedin.com/posts/alirezabahremand_ai-xr-vr-activity-7016090627536822272-hpli?utm_source=share&utm_medium=member_desktop)
 
 ## Setup
 
@@ -78,3 +78,7 @@ In addition to the APIs and packages mentioned above, this project also uses the
 
 * [Quickstart article on the SDK documentation site](https://docs.microsoft.com/azure/cognitive-services/speech-service/quickstart-text-to-speech-csharp-unity)
 * [Speech SDK API reference for C#](https://aka.ms/csspeech/csharpref)
+
+## Authors
+
+- [Alireza Bahremand](https://alirezabahremand.com/)
