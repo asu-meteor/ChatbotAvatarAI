@@ -1447,6 +1447,8 @@ MonoBehaviour:
   outputText: {fileID: 571783798}
   inputField: {fileID: 1063444687}
   audioSource: {fileID: 791813957}
+  SubscriptionKey: 
+  Region: 
 --- !u!114 &434629152
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -1476,7 +1478,12 @@ MonoBehaviour:
       you ask me a question that is rooted in truth, I will give you the answer.
       If you ask me a question that is nonsense, trickery, or has no clear answer,
       I will respond with \"Unknown\".
-  setPersonalityProfileName: Alireza
+  - PersonalityName: Mehul
+    PersonalityDescription: 'My name is Mehul, and I''m a computer science student
+      at ASU with experience in XR development. This is my Paragraph summary of my
+      work and experience paired with a question, please answer that and then immediately
+      stop and wait for me to ask my next question. '
+  setPersonalityProfileName: Mehul
   textDebugger: {fileID: 2072247204}
   question: 
 --- !u!4 &434629153
