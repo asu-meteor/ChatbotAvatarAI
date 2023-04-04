@@ -82,3 +82,4 @@ In addition to the APIs and packages mentioned above, this project also uses the
 ## Authors
 
 - [Alireza Bahremand](https://alirezabahremand.com/)
+- [Mehul Srivastava](https://www.msrivas.in)
